@@ -18,30 +18,66 @@ nav_order: 2
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
 ### For Apple iOS Devices:
+{: .no_toc }
+
+
 ### For Samsung Galaxy Devices:
+{: .no_toc }
+
+
 ### For Google Pixel Devices:
+{: .no_toc }
+
+
 
 ## Enabling Data Roaming
 
 Now that you've successfully acitvated your eSIM, it's time to turn on Data Roaming.
 
 ### For Apple iOS Devices:
+{: .no_toc }
+
+
 ### For Samsung Galaxy Devices:
+{: .no_toc }
+
+
 ### For Google Pixel Devices:
+{: .no_toc }
+
+
 
 ## (Optional) Checking APN Settings
 
 To esnure your eSIM is correctly setup please check your APN configuration
 
 ### For Apple iOS Devices:
+{: .no_toc }
+
+
 ### For Samsung Galaxy Devices:
+{: .no_toc }
+
+
 ### For Google Pixel Devices:
+{: .no_toc }
+
+
 
 ## Checking Data Usage
 
 ### For Apple iOS Devices:
+{: .no_toc }
+
+
 ### For Samsung Galaxy Devices:
+{: .no_toc }
+
+
 ### For Google Pixel Devices:
+{: .no_toc }
+
+
 
 ## Common eSIM issues
 
