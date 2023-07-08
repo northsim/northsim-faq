@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Japan eSIM 🇯🇵
+title: Japan eSIM :jp:
 nav_order: 2
 ---
 
-# Japan eSIM
+# Japan eSIM :jp:
 {: .no_toc }
 
 ## Table of contents
