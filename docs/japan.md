@@ -13,12 +13,22 @@ nav_order: 2
 1. TOC
 {:toc}
 
+## eSIM Activation Checklist
+
+- [ ] An email from NorthSIM with your eSIM Details
+- [ ] An carrier unlocked and compatible device
+- [ ] A reliable WiFi Connection
+
 ## Activating your eSIM
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
 ### For Apple iOS Devices:
 {: .no_toc }
+
+- Go to Settings > Mobile (Cellular)
+
+![](../../assets/images/1.gif)
 
 
 ### For Samsung Galaxy Devices:
