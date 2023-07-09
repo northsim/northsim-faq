@@ -7,6 +7,8 @@ nav_order: 2
 # Japan eSIM
 {: .no_toc }
 
+Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -17,18 +19,16 @@ nav_order: 2
 
 Before you activate your eSIM you should have:
 
-- [ ] An email from NorthSIM with your eSIM Details
-- [ ] A carrier unlocked and compatible device
-- [ ] A reliable WiFi Connection
+- [x] An email from NorthSIM with your eSIM Details
+- [x] A carrier unlocked and compatible device
+- [x] A reliable WiFi Connection
+- [x] A device which is charged more than 50% 
 
 ## Activating your eSIM
-
-Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
 <details markdown="block">
   <summary>
     For Apple iPhone and iOS Devices
-    {: .label .label-red }
   </summary>
 
 {: .highlight }
@@ -106,49 +106,69 @@ Scan your QR Code (or enter your QR details manually if you have been given them
 
 Now that you've successfully acitvated your eSIM, it's time to turn on Data Roaming.
 
-### For Apple iOS Devices:
-{: .no_toc }
+<details markdown="block">
+  <summary>
+    For Apple iPhone and iOS Devices
+  </summary>
+</detail>
 
+<details markdown="block">
+  <summary>
+    For Samsung Galaxy/Android Devices
+  </summary>
+</detail>
 
-### For Samsung Galaxy Devices:
-{: .no_toc }
+<details markdown="block">
+  <summary>
+    For Google Pixel/Android Devices
+  </summary>
+</detail>
 
+## Checking APN Settings
 
-### For Google Pixel Devices:
-{: .no_toc }
-
-
-
-## (Optional) Checking APN Settings
+Optional
+{: .label .label-red }
 
 To ensure your eSIM is correctly setup please check your APN configuration
 
-### For Apple iOS Devices:
-{: .no_toc }
+<details markdown="block">
+  <summary>
+    For Apple iPhone and iOS Devices
+  </summary>
+</detail>
 
+<details markdown="block">
+  <summary>
+    For Samsung Galaxy/Android Devices
+  </summary>
+</detail>
 
-### For Samsung Galaxy Devices:
-{: .no_toc }
-
-
-### For Google Pixel Devices:
-{: .no_toc }
-
+<details markdown="block">
+  <summary>
+    For Google Pixel/Android Devices
+  </summary>
+</detail>
 
 
 ## Checking Data Usage
 
-### For Apple iOS Devices:
-{: .no_toc }
+<details markdown="block">
+  <summary>
+    For Apple iPhone and iOS Devices
+  </summary>
+</detail>
 
+<details markdown="block">
+  <summary>
+    For Samsung Galaxy/Android Devices
+  </summary>
+</detail>
 
-### For Samsung Galaxy Devices:
-{: .no_toc }
-
-
-### For Google Pixel Devices:
-{: .no_toc }
-
+<details markdown="block">
+  <summary>
+    For Google Pixel/Android Devices
+  </summary>
+</detail>
 
 
 ## Common eSIM issues
