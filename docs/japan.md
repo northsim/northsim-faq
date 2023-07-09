@@ -15,14 +15,15 @@ nav_order: 2
 
 ## eSIM Activation Checklist
 
+Before you activate your eSIM you should have:
+
 - [ ] An email from NorthSIM with your eSIM Details
-- [ ] An carrier unlocked and compatible device
+- [ ] A carrier unlocked and compatible device
 - [ ] A reliable WiFi Connection
 
 ## Activating your eSIM
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
-
 
 <details markdown="block">
   <summary>
@@ -32,27 +33,56 @@ Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a stra
 {: .highlight }
 Go to Settings > Mobile (Cellular)
 
-![](../../assets/images/1.gif){:width="40%"}
+![](../../assets/images/iphone-add-esim/1.gif){:width="40%"}
 
 {: .highlight }
 Then tap on add an eSIM
 
-![](../../assets/images/2.gif){:width="40%"}
+![](../../assets/images/iphone-add-esim/2.gif){:width="40%"}
 
 {: .highlight }
 Choose the use QR Code option
 
-![](../../assets/images/3.gif){:width="40%"}
+![](../../assets/images/iphone-add-esim/3.gif){:width="40%"}
 
 {: .highlight }
 Scan your QR Code (or enter your QR details manually if you have been given them)
 
-![](../../assets/images/4.gif){:width="40%"}
+![](../../assets/images/iphone-add-esim/4.gif){:width="40%"}
 
 </details>
 
-### For Samsung Galaxy Devices:
-{: .no_toc }
+<details markdown="block">
+  <summary>
+    For Samsung Galaxy/Android Devices
+  </summary>
+
+{: .highlight }
+Go to Settings > Connections
+
+![](../../assets/images/samsung-add-esim/1.gif){:width="40%"}
+
+{: .highlight }
+Then tap on SIM Card Manager
+
+![](../../assets/images/samsung-add-esim/2.gif){:width="40%"}
+
+{: .highlight }
+Tap on Add Mobile Plan
+
+![](../../assets/images/samsung-add-esim/3.gif){:width="40%"}
+
+{: .highlight }
+Tap on Scan Carrier QR Code
+
+![](../../assets/images/samsung-add-esim/4.gif){:width="40%"}
+
+{: .highlight }
+Scan your QR Code (or enter your QR details manually if you have been given them)
+
+![](../../assets/images/samsung-add-esim/4.gif){:width="40%"}
+
+</details>
 
 
 ### For Google Pixel Devices:
@@ -114,4 +144,10 @@ To esnure your eSIM is correctly setup please check your APN configuration
 ### My eSIM suddenly stopped working
 
 Please check ....
+
+### I scanned my QR code but nothing happened
+
+### I scanned my QR code and it says it has already been activated
+
+### My eSIM is showing 4G/LTE/3G signal but is really slow
 
