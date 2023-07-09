@@ -28,6 +28,7 @@ Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a stra
 <details markdown="block">
   <summary>
     For Apple iPhone and iOS Devices
+    {: .label .label-red }
   </summary>
 
 {: .highlight }
@@ -120,7 +121,7 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 
 ## (Optional) Checking APN Settings
 
-To esnure your eSIM is correctly setup please check your APN configuration
+To ensure your eSIM is correctly setup please check your APN configuration
 
 ### For Apple iOS Devices:
 {: .no_toc }
