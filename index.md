@@ -12,7 +12,7 @@ To quickly get you started please select which eSIM you've purchased from the li
 
 | Product    | eSIM Guide                                        |
 |------------|---------------------------------------------------|
-| :jp: Japan | [Guide](https://faq.northsim.com/docs/japan.html) |
+| Japan |[Japan eSIM :jp:](http://example.com/){: .btn .btn-purple }|
 |            |                                                   |
 |            |                                                   |
 
