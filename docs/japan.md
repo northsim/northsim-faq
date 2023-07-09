@@ -80,13 +80,24 @@ Tap on Scan Carrier QR Code
 {: .highlight }
 Scan your QR Code (or enter your QR details manually if you have been given them)
 
-![](../../assets/images/samsung-add-esim/4.gif){:width="40%"}
+![](../../assets/images/samsung-add-esim/5.gif){:width="40%"}
 
 </details>
 
 
-### For Google Pixel Devices:
-{: .no_toc }
+<details markdown="block">
+  <summary>
+    For Google Pixel/Android Devices
+  </summary>
+
+{: .highlight }
+- Go to Settings > Network & Internet
+- Look for the SIMs menu and click the + button
+- Tap on Download a SIM instead
+- Tap Next and follow the instructions
+- Scan your QR code
+
+</details>
 
 
 
