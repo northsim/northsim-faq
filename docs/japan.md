@@ -34,6 +34,11 @@ Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a stra
 
 ![](../../assets/images/1.gif){:width="40%"}
 
+{: .highlight }
+- Then tap on add an eSIM
+
+![](../../assets/images/2.gif){:width="40%"}
+
 </details>
 
 ### For Samsung Galaxy Devices:
