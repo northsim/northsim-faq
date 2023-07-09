@@ -155,7 +155,7 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 - Go to Settings
 - Tap on Mobile
 - Scroll down and check the Data Roaming Usage value
-</detail>
+</details>
 
 <details markdown="block">
   <summary>
@@ -167,7 +167,7 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 - Tap on Connections
 - Tap on Data Usage
 - Check the data usage for your eSIM
-</detail>
+</details>
 
 <details markdown="block">
   <summary>
@@ -180,7 +180,7 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 - Tap on Internet
 - Tap on the eSIM you have installed
 - Check your data usage
-</detail>
+</details>
 
 ## Checking APN Settings
 
