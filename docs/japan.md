@@ -23,13 +23,21 @@ nav_order: 2
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
-### For Apple iOS Devices:
-{: .no_toc }
+
+<details markdown="block">
+  <summary>
+    CONTENTS
+  </summary>
+For Apple iOS Devices:
 
 - Go to Settings > Mobile (Cellular)
 
 ![](../../assets/images/1.gif)
 
+</details>
+
+### For Apple iOS Devices:
+{: .no_toc }
 
 ### For Samsung Galaxy Devices:
 {: .no_toc }
