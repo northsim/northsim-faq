@@ -30,7 +30,7 @@ Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a stra
   </summary>
 
 {: .highlight }
-Go to Settings > Mobile (Cellular) 
+Go to Settings > Mobile (Cellular)
 ![](../../assets/images/1.gif){:width="40%"}
 
 </details>
