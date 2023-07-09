@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Japan eSIM
-nav_order: 2
+title: South Korea eSIM
+nav_order: 5
 ---
 
 # Japan eSIM
