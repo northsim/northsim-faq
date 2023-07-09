@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Australia and New Zealand eSIM
-nav_order: 1
+nav_order: 11
 ---
 
 # Japan eSIM
