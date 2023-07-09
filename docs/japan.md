@@ -39,6 +39,16 @@ Then tap on add an eSIM
 
 ![](../../assets/images/2.gif){:width="40%"}
 
+{: .highlight }
+Choose the use QR Code option
+
+![](../../assets/images/3.gif){:width="40%"}
+
+{: .highlight }
+Scan your QR Code (or enter your QR details manually if you have been given them)
+
+![](../../assets/images/4.gif){:width="40%"}
+
 </details>
 
 ### For Samsung Galaxy Devices:
