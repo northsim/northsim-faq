@@ -12,12 +12,13 @@ To quickly get you started please select which eSIM you've purchased from the li
 
 | Product    | eSIM Guide                                        |
 |------------|---------------------------------------------------|
-| Japan |[Japan eSIM :jp:](http://example.com/){: .btn .btn-purple }|
+| Australia and New Zealand | [Australia and New Zealand eSIM :au: :nz:](http://example.com/){: .btn .btn-green } |
+| China | [China eSIM :cn: :hk: :mo:](http://example.com/){: .btn .btn-purple }|
+| Japan      |[Japan eSIM :jp:](http://example.com/){: .btn .btn-purple }|
 |            |                                                   |
 |            |                                                   |
 
 ----
 
-.
 [NorthSIM]: https://northsim.com
 [Shop]: https://northsim.com/shop
