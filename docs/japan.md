@@ -29,7 +29,7 @@ Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a stra
     For Apple iPhone and iOS Devices
   </summary>
   - Go to Settings > Mobile (Cellular)
-  ![](../../assets/images/1.gif){:width="100%"}
+  ![](../../assets/images/1.gif){:width="50%"}
 </details>
 
 ### For Samsung Galaxy Devices:
