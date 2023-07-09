@@ -110,19 +110,75 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
   <summary>
     For Apple iPhone and iOS Devices
   </summary>
-  </detail>
+
+{: .highlight }
+Go to Settings > Mobile (Cellular)
+
+![](../../assets/images/iphone-add-esim/1.gif){:width="40%"}
+
+{: .highlight }
+Then tap on add an eSIM
+
+![](../../assets/images/iphone-add-esim/2.gif){:width="40%"}
+
+{: .highlight }
+Choose the use QR Code option
+
+![](../../assets/images/iphone-add-esim/3.gif){:width="40%"}
+
+{: .highlight }
+Scan your QR Code (or enter your QR details manually if you have been given them)
+
+![](../../assets/images/iphone-add-esim/4.gif){:width="40%"}
+
+</details>
 
 <details markdown="block">
   <summary>
     For Samsung Galaxy/Android Devices
   </summary>
-  </detail>
+
+{: .highlight }
+Go to Settings > Connections
+
+![](../../assets/images/samsung-add-esim/1.gif){:width="40%"}
+
+{: .highlight }
+Then tap on SIM Card Manager
+
+![](../../assets/images/samsung-add-esim/2.gif){:width="40%"}
+
+{: .highlight }
+Tap on Add Mobile Plan
+
+![](../../assets/images/samsung-add-esim/3.gif){:width="40%"}
+
+{: .highlight }
+Tap on Scan Carrier QR Code
+
+![](../../assets/images/samsung-add-esim/4.gif){:width="40%"}
+
+{: .highlight }
+Scan your QR Code (or enter your QR details manually if you have been given them)
+
+![](../../assets/images/samsung-add-esim/5.gif){:width="40%"}
+
+</details>
+
 
 <details markdown="block">
   <summary>
     For Google Pixel/Android Devices
   </summary>
-  </detail>
+
+{: .highlight }
+- Go to Settings > Network & Internet
+- Look for the SIMs menu and click the + button
+- Tap on Download a SIM instead
+- Tap Next and follow the instructions
+- Scan your QR code
+
+</details>
 
 ## Checking APN Settings
 
@@ -135,19 +191,75 @@ To ensure your eSIM is correctly setup please check your APN configuration
   <summary>
     For Apple iPhone and iOS Devices
   </summary>
-  </detail>
+
+{: .highlight }
+Go to Settings > Mobile (Cellular)
+
+![](../../assets/images/iphone-add-esim/1.gif){:width="40%"}
+
+{: .highlight }
+Then tap on add an eSIM
+
+![](../../assets/images/iphone-add-esim/2.gif){:width="40%"}
+
+{: .highlight }
+Choose the use QR Code option
+
+![](../../assets/images/iphone-add-esim/3.gif){:width="40%"}
+
+{: .highlight }
+Scan your QR Code (or enter your QR details manually if you have been given them)
+
+![](../../assets/images/iphone-add-esim/4.gif){:width="40%"}
+
+</details>
 
 <details markdown="block">
   <summary>
     For Samsung Galaxy/Android Devices
   </summary>
-  </detail>
+
+{: .highlight }
+Go to Settings > Connections
+
+![](../../assets/images/samsung-add-esim/1.gif){:width="40%"}
+
+{: .highlight }
+Then tap on SIM Card Manager
+
+![](../../assets/images/samsung-add-esim/2.gif){:width="40%"}
+
+{: .highlight }
+Tap on Add Mobile Plan
+
+![](../../assets/images/samsung-add-esim/3.gif){:width="40%"}
+
+{: .highlight }
+Tap on Scan Carrier QR Code
+
+![](../../assets/images/samsung-add-esim/4.gif){:width="40%"}
+
+{: .highlight }
+Scan your QR Code (or enter your QR details manually if you have been given them)
+
+![](../../assets/images/samsung-add-esim/5.gif){:width="40%"}
+
+</details>
+
 
 <details markdown="block">
   <summary>
     For Google Pixel/Android Devices
   </summary>
-  </detail>
+
+{: .highlight }
+- Go to Settings > Network & Internet
+- Look for the SIMs menu and click the + button
+- Tap on Download a SIM instead
+- Tap Next and follow the instructions
+- Scan your QR code
+
+</details>
 
 
 ## Checking Data Usage
@@ -156,19 +268,75 @@ To ensure your eSIM is correctly setup please check your APN configuration
   <summary>
     For Apple iPhone and iOS Devices
   </summary>
-  </detail>
+
+{: .highlight }
+Go to Settings > Mobile (Cellular)
+
+![](../../assets/images/iphone-add-esim/1.gif){:width="40%"}
+
+{: .highlight }
+Then tap on add an eSIM
+
+![](../../assets/images/iphone-add-esim/2.gif){:width="40%"}
+
+{: .highlight }
+Choose the use QR Code option
+
+![](../../assets/images/iphone-add-esim/3.gif){:width="40%"}
+
+{: .highlight }
+Scan your QR Code (or enter your QR details manually if you have been given them)
+
+![](../../assets/images/iphone-add-esim/4.gif){:width="40%"}
+
+</details>
 
 <details markdown="block">
   <summary>
     For Samsung Galaxy/Android Devices
   </summary>
-  </detail>
+
+{: .highlight }
+Go to Settings > Connections
+
+![](../../assets/images/samsung-add-esim/1.gif){:width="40%"}
+
+{: .highlight }
+Then tap on SIM Card Manager
+
+![](../../assets/images/samsung-add-esim/2.gif){:width="40%"}
+
+{: .highlight }
+Tap on Add Mobile Plan
+
+![](../../assets/images/samsung-add-esim/3.gif){:width="40%"}
+
+{: .highlight }
+Tap on Scan Carrier QR Code
+
+![](../../assets/images/samsung-add-esim/4.gif){:width="40%"}
+
+{: .highlight }
+Scan your QR Code (or enter your QR details manually if you have been given them)
+
+![](../../assets/images/samsung-add-esim/5.gif){:width="40%"}
+
+</details>
+
 
 <details markdown="block">
   <summary>
     For Google Pixel/Android Devices
   </summary>
-  </detail>
+
+{: .highlight }
+- Go to Settings > Network & Internet
+- Look for the SIMs menu and click the + button
+- Tap on Download a SIM instead
+- Tap Next and follow the instructions
+- Scan your QR code
+
+</details>
 
 
 ## Common eSIM issues
