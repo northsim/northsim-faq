@@ -114,7 +114,6 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 - Tap on Mobile
 - Tap on the eSIM
 - Scroll down and toggle on Data Roaming
-
 </details>
 
 <details markdown="block">
@@ -142,7 +141,8 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 - Tap on Internet
 - Tap on the eSIM's setting icon (it looks like a gear)
 - Toggle Roaming on
-- 
+
+</details>
 
 ## Checking APN Settings
 
