@@ -144,35 +144,50 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 
 </details>
 
-## Checking APN Settings
-
-Optional
-{: .label .label-red }
-
-To ensure your eSIM is correctly setup please check your APN configuration
-
-
-
 ## Checking Data Usage
 
 <details markdown="block">
   <summary>
     For Apple iPhone and iOS Devices
   </summary>
+
+  {: .highlight }
+- Go to Settings
+- Tap on Mobile
+- Scroll down and check the Data Roaming Usage value
 </detail>
 
 <details markdown="block">
   <summary>
     For Samsung Galaxy/Android Devices
   </summary>
+
+{: .highlight }
+- Go To Settings
+- Tap on Connections
+- Tap on Data Usage
+- Check the data usage for your eSIM
 </detail>
 
 <details markdown="block">
   <summary>
     For Google Pixel/Android Devices
   </summary>
+
+  {: .highlight }
+- Go to Settings
+- Tap on Network & Internet
+- Tap on Internet
+- Tap on the eSIM you have installed
+- Check your data usage
 </detail>
 
+## Checking APN Settings
+
+Optional
+{: .label .label-red }
+
+To ensure your eSIM is correctly setup please check your APN configuration
 
 ## Common eSIM issues
 
