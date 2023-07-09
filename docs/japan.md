@@ -85,6 +85,7 @@ Scan your QR Code (or enter your QR details manually if you have been given them
 
 </details>
 
+
 <details markdown="block">
   <summary>
     For Google Pixel/Android Devices
@@ -99,11 +100,49 @@ Scan your QR Code (or enter your QR details manually if you have been given them
 
 </details>
 
-
 ## Enabling Data Roaming
 
 Now that you've successfully acitvated your eSIM, it's time to turn on Data Roaming.
 
+<details markdown="block">
+  <summary>
+    For Apple iPhone and iOS Devices
+  </summary>
+
+{: .highlight }
+- Go to Settings
+- Tap on Mobile
+- Tap on the eSIM
+- Scroll down and toggle on Data Roaming
+
+</details>
+
+<details markdown="block">
+  <summary>
+    For Samsung Galaxy/Android Devices
+  </summary>
+
+{: .highlight }
+- Go To Settings
+- Tap on Connections
+- Tap on Mobile Networks
+- Toggle on Data Roaming
+
+</details>
+
+
+<details markdown="block">
+  <summary>
+    For Google Pixel/Android Devices
+  </summary>
+
+{: .highlight }
+- Go to Settings
+- Tap on Network & Internet
+- Tap on Internet
+- Tap on the eSIM's setting icon (it looks like a gear)
+- Toggle Roaming on
+- 
 
 ## Checking APN Settings
 
@@ -112,7 +151,28 @@ Optional
 
 To ensure your eSIM is correctly setup please check your APN configuration
 
+
+
 ## Checking Data Usage
+
+<details markdown="block">
+  <summary>
+    For Apple iPhone and iOS Devices
+  </summary>
+</detail>
+
+<details markdown="block">
+  <summary>
+    For Samsung Galaxy/Android Devices
+  </summary>
+</detail>
+
+<details markdown="block">
+  <summary>
+    For Google Pixel/Android Devices
+  </summary>
+</detail>
+
 
 ## Common eSIM issues
 
