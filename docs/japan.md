@@ -110,19 +110,19 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
   <summary>
     For Apple iPhone and iOS Devices
   </summary>
-</detail>
+  </detail>
 
 <details markdown="block">
   <summary>
     For Samsung Galaxy/Android Devices
   </summary>
-</detail>
+  </detail>
 
 <details markdown="block">
   <summary>
     For Google Pixel/Android Devices
   </summary>
-</detail>
+  </detail>
 
 ## Checking APN Settings
 
@@ -135,19 +135,19 @@ To ensure your eSIM is correctly setup please check your APN configuration
   <summary>
     For Apple iPhone and iOS Devices
   </summary>
-</detail>
+  </detail>
 
 <details markdown="block">
   <summary>
     For Samsung Galaxy/Android Devices
   </summary>
-</detail>
+  </detail>
 
 <details markdown="block">
   <summary>
     For Google Pixel/Android Devices
   </summary>
-</detail>
+  </detail>
 
 
 ## Checking Data Usage
@@ -156,19 +156,19 @@ To ensure your eSIM is correctly setup please check your APN configuration
   <summary>
     For Apple iPhone and iOS Devices
   </summary>
-</detail>
+  </detail>
 
 <details markdown="block">
   <summary>
     For Samsung Galaxy/Android Devices
   </summary>
-</detail>
+  </detail>
 
 <details markdown="block">
   <summary>
     For Google Pixel/Android Devices
   </summary>
-</detail>
+  </detail>
 
 
 ## Common eSIM issues
