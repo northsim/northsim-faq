@@ -7,6 +7,14 @@ nav_order: 4
 # Japan eSIM
 {: .no_toc }
 
+### eSIM Details
+{: .no_toc }
+
+| Coverage       | Network                     | APN      |
+|----------------|-----------------------------|----------|
+| Japan          | KDDI, NTT Docomo            | internet |
+
+
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
 ## Table of contents

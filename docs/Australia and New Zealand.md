@@ -7,7 +7,7 @@ nav_order: 2
 # Australia and New Zealand eSIM
 {: .no_toc }
 
-### Quick eSIM Details
+### eSIM Details
 {: .no_toc }
 
 | Coverage    | Network | APN         |

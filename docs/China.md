@@ -7,13 +7,14 @@ nav_order: 3
 # China (Mainland, Hong Kong and Macau) eSIM
 {: .no_toc }
 
-### Quick eSIM Details
+### eSIM Details
 {: .no_toc }
 
-| Coverage    | Network | APN         |
-|-------------|----------|------------|
-| Australia   | Vodafone | mobiledata |
-| New Zealand | One NZ   | mobiledata |
+| Coverage       | Network                     | APN      |
+|----------------|-----------------------------|----------|
+| China Mainland | China Unicom, China Telecom | internet |
+| Hong Kong      | SmarTone, HKT, 3HK)         | internet |
+| Macau          | CTM                         | internet |
 
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.

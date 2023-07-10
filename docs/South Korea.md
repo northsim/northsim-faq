@@ -4,8 +4,15 @@ title: South Korea eSIM
 nav_order: 6
 ---
 
-# Japan eSIM
+# South Korea eSIM
 {: .no_toc }
+
+### eSIM Details
+{: .no_toc }
+
+| Coverage       | Network                     | APN      |
+|----------------|-----------------------------|----------|
+| South Korea    | KT, SKT                     | internet |
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 

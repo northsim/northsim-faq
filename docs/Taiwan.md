@@ -4,8 +4,15 @@ title: Taiwan eSIM
 nav_order: 7
 ---
 
-# Japan eSIM
+# Taiwan eSIM
 {: .no_toc }
+
+### eSIM Details
+{: .no_toc }
+
+| Coverage | Network                         | APN      |
+|----------|---------------------------------|----------|
+| Taiwan   | CHT, FarEastTone, Taiwan Mobile | internet |
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
