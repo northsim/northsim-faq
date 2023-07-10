@@ -146,7 +146,6 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 
 </details>
 
-
 <details markdown="block">
   <summary>
     For Google Pixel/Android Devices
@@ -199,7 +198,7 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 - Check your data usage
 </details>
 
-### Checking APN Settings
+## Checking APN Settings
 
 Optional
 {: .label .label-red }
