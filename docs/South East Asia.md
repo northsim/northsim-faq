@@ -4,7 +4,7 @@ title: South East Asia eSIM
 nav_order: 5
 ---
 
-# Japan eSIM
+# South East Asia eSIM
 {: .no_toc }
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.

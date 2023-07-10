@@ -4,8 +4,17 @@ title: China eSIM
 nav_order: 3
 ---
 
-# Japan eSIM
+# China (Mainland, Hong Kong and Macau) eSIM
 {: .no_toc }
+
+### Quick eSIM Details
+{: .no_toc }
+
+| Coverage    | Network | APN         |
+|-------------|----------|------------|
+| Australia   | Vodafone | mobiledata |
+| New Zealand | One NZ   | mobiledata |
+
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
