@@ -29,14 +29,19 @@ Activating your eSIM is a straightforward process. All you need to do is connect
 
 ## eSIM Activation Checklist
 
-Before you activate your eSIM you should have:
-
 - [x] An email from NorthSIM with your eSIM Details
 - [x] A carrier unlocked and compatible device
 - [x] A reliable WiFi Connection
-- [x] A device which is charged more than 50% 
+- [x] A device which is charged more than 50%
+- [x] Scan your QR code
+- [x] Enable Data Roaming
 
 ## Activating your eSIM
+
+- You should activate your eSIM the day before you fly. 
+- All our eSIMs must be activated within 30 days of purchase.
+- For iPhone/iOS and most Android devices please use the default camera app to scan your QR code. If this doesn't work please follow the steps below.
+- For Pixel devices please follow the steps below
 
 <details markdown="block">
   <summary>
@@ -226,9 +231,7 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
 - Tap on Access Point Names
 - Ensure that the APN Name is set as per eSIM details section above
 
-
 </details>
-
 
 <details markdown="block">
   <summary>
