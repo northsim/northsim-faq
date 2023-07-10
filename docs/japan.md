@@ -10,7 +10,7 @@ nav_order: 4
 ### eSIM Details
 {: .no_toc }
 
-![](../../assets/images/products/japan){:width="40%"}
+![](../../assets/images/products/japan.png){:width="40%"}
 
 | Coverage       | Network                     | APN      |
 |----------------|-----------------------------|----------|
