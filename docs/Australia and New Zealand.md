@@ -10,14 +10,14 @@ nav_order: 2
 ### eSIM Details
 {: .no_toc }
 
-[Purchase Now](https://www.northsim.com/product/australia-newzealand-travel-esim/){: .btn .btn-nsyellow }
+[Purchase Now](https://www.northsim.com/product/australia-newzealand-travel-esim/){: .btn .btn- yellow-300}
 
 | Coverage    | Network | APN         |
 |-------------|----------|------------|
 | Australia   | Vodafone | mobiledata |
 | New Zealand | One NZ   | mobiledata |
 
-Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
+Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
 ## Table of contents
 {: .no_toc .text-delta }

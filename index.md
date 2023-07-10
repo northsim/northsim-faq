@@ -12,12 +12,6 @@ To quickly get you started please select which eSIM you've purchased from the li
 
 | eSIM Guide                                                                                        |
 |---------------------------------------------------------------------------------------------------|
-[Australia and New Zealand eSIM :australia: :new_zealand:](http://example.com/){: .btn .btn-nsblack} |
-[China eSIM :cn: :hong_kong: :macau:](http://example.com/){: .btn .btn-ns-nsblack}                     |
-[Japan eSIM :jp:](http://example.com/){: .btn .btn-ns-nsblack}                                         |
-[South East Asia eSIM :earth_asia:](http://example.com/){: .btn .btn-ns-nsblack}                       |
-[South Korea eSIM :kr:](http://example.com/){: .btn .btn-nsblack}                                   |
-[Tauwab eSIM :taiwan:](http://example.com/){: .btn .btn-nsblack} |                                  |
 
 ----
 
