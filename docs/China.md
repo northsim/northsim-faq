@@ -7,6 +7,8 @@ nav_order: 3
 # China (Mainland, Hong Kong and Macau) eSIM
 {: .no_toc }
 
+[Purchase Now](https://www.northsim.com/product/china-mainland-hong-kong-and-macau-travel-esim/){: .btn .btn-yellow-300}
+
 ### eSIM Details
 {: .no_toc }
 
@@ -17,7 +19,7 @@ nav_order: 3
 | Macau          | CTM                         | internet |
 
 
-Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
+Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -192,12 +194,56 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 - Check your data usage
 </details>
 
-## Checking APN Settings
+### Checking APN Settings
 
 Optional
 {: .label .label-red }
 
-To ensure your eSIM is correctly setup please check your APN configuration
+NorthSIM eSIMs automatically download APN configurations at the time of eSIM installtion. However sometimes the APN download process can be interupted and as a result the APN may not be configured correctly. To ensure your APN settings are correct please check that the APN Name matches the APN in the eSIM details section above.
+
+<details markdown="block">
+  <summary>
+    For Apple iPhone and iOS Devices
+  </summary>
+
+{: .highlight }
+
+- Settings > Mobile > Mobile Data Network
+- Settings > Mobile Data > Mobile Data Options > Mobile Data Network
+- Ensure that the APN Name is set as per eSIM details section above
+
+</details>
+
+<details markdown="block">
+  <summary>
+    For Samsung Galaxy/Android Devices
+  </summary>
+
+{: .highlight }
+- Go To Settings
+- Tap on Connections
+- Tap on Mobile Networks
+- Tap on Access Point Names
+- Ensure that the APN Name is set as per eSIM details section above
+
+
+</details>
+
+
+<details markdown="block">
+  <summary>
+    For Google Pixel/Android Devices
+  </summary>
+
+{: .highlight }
+- Go to Settings
+- Tap on Network & Internet
+- Tap on your eSIM
+- Tap on Advanced
+- Tap on Access Point Names
+- Ensure that the APN Name is set as per eSIM details section above
+
+</details>
 
 ## Common eSIM issues
 
