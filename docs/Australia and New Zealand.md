@@ -19,6 +19,9 @@ nav_order: 2
 
 Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
+> Scan your eSIM QR code
+> Enable Data Roaming
+
 ## Table of contents
 {: .no_toc .text-delta }
 
