@@ -254,7 +254,7 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
 
 ### eSIM Activation issues
 ```mermaid
-
+%%{init: {'theme':'dark'}}%%
 flowchart TD;
     A([I've purchased my eSIM]) -.Received QR Code.->  B([Scan QR code]);
     A-.Haven't Received QR code.->B1([Check your Junk/Spam mailbox]);
