@@ -163,6 +163,8 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 
 ## Checking Data Usage
 
+Unless otherwise stated all NorthSIM eSIMs will throttle to 128kbps after your data limit has been reached. You are welcome to use thrid party data usage tracking apps to track your data usage. Alternatively your device will have an inbuilt data usage counter.
+
 <details markdown="block">
   <summary>
     For Apple iPhone and iOS Devices
@@ -257,15 +259,15 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
     eSIM Activation Issues
   </summary>
 
-Most eSIM activation issues can be easily resolved.
+Most eSIM activation issues can be easily resolved by following the steps below.
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 flowchart TD;
     A([I've purchased my eSIM]) -.Received QR Code.->  B([Scan QR code]);
     A-.Haven't Received QR code.->B1([Check your Junk/Spam mailbox]);
-    B1-.Found my QR code.->B;
-    B1-.Still can't find my QR code.->G;
+    B1-.Found my QR code.->B2[Scan QR Code];
+    B1-.Still can't find my QR code.->G1([Please scan your QR code again]);
     B-.Successful.->C([Please enable Data Roaming on your eSIM]);
     B-.Unsuccessful.->D([Was there an error message?]);
     D-.Yes.->E([Does the message say the eSIM has already been scanned?]);
@@ -274,6 +276,31 @@ flowchart TD;
     D-.No.->H([Please scan your QR code again]);
 ```
 </details>
+
+<details markdown="block">
+  <summary>
+    My eSIM doesn't work (or stopped working)
+  </summary>
+
+Most eSIM activation issues can be easily resolved by following the steps below.
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart TD
+    A([My eSIM isn't working])-..->B([Have you successfully scanned the QR Code?]);
+    B-.Yes.-> C([Is this the first time you are using the eSIM?]);
+    B-.No.->D([Please scan your QR code]);
+    C-.Yes.->E([Is data roaming enabled?]);
+    C-.No.->F([It was working previously]);
+    F-.The eSIM is very slow.->G([Please check your data usage limits]);
+    F-.It's not working at all.->H([Please change or toggle network operator]);
+    E-..->E1([Is the eSIM selected for Mobile Data?]);
+    E1-.->E2([If you've just landed it may take a few minutes to activate]);
+    E2-.It's still not working.-E3([Please contact support via WhatsApp/Facebook]);
+```
+</details>
+
+
 
 
 
