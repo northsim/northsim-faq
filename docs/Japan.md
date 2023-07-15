@@ -243,7 +243,7 @@ If you're eSIM has suddenly stopped working it might be due to your phone's netw
 
 </details>
 
-### Checking APN Settings (
+### Checking APN Settings
 
 NorthSIM eSIMs automatically download APN configurations at the time of eSIM installtion. However sometimes the APN download process can be interupted and as a result the APN may not be configured correctly. To ensure your APN settings are correct please check that the APN Name matches the APN in the eSIM details section above.
 
