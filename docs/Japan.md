@@ -252,13 +252,20 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
 
 ## Common eSIM issues
 
-### My eSIM suddenly stopped working
+### eSIM Activation issues
+```mermaid
 
-Please check ....
+flowchart TD;
+    A([I've purchased my eSIM]) -.Received QR Code.->  B([Scan QR code]);
+    A-.Haven't Received QR code.->B1([Check your Junk/Spam mailbox]);
+    B1-.Found my QR code.->B;
+    B1-.Still can't find my QR code.->G;
+    B-.Successful.->C([Please enable Data Roaming on your eSIM]);
+    B-.Unsuccessful.->D([Was there an error message?]);
+    D-.Yes.->E([Does the message say the eSIM has already been scanned?]);
+    E-.Yes.->F([Check your settings to see if eSIM is already added]);
+    E-.No.->G([Please contact support via WhatsApp/Facebook]);
+    D-.No.->H([Please scan your QR code again]);
+```
 
-### I scanned my QR code but nothing happened
-
-### I scanned my QR code and it says it has already been activated
-
-### My eSIM is showing 4G/LTE/3G signal but is really slow
 
