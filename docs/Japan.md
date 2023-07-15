@@ -252,7 +252,13 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
 
 ## Common eSIM issues
 
-### eSIM Activation issues
+<details markdown="block">
+  <summary>
+    eSIM Activation Issues
+  </summary>
+
+Most eSIM activation issues can be easily resolved.
+
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 flowchart TD;
@@ -267,5 +273,10 @@ flowchart TD;
     E-.No.->G([Please contact support via WhatsApp/Facebook]);
     D-.No.->H([Please scan your QR code again]);
 ```
+</details>
+
+
+
+
 
 
