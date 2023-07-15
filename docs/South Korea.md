@@ -26,12 +26,10 @@ Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a stra
 
 ## eSIM Activation Checklist
 
-- [x] An email from NorthSIM with your eSIM Details
-- [x] A carrier unlocked and compatible device
-- [x] A reliable WiFi Connection
-- [x] A device which is charged more than 50%
-- [x] Scan your QR code
-- [x] Enable Data Roaming
+1. Connect to WiFi
+2. Scan your QR code
+3. Enable Data Roaming
+4. Select your eSIM for Mobile Data
 
 ## Activating your eSIM
 
@@ -160,6 +158,8 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 
 ## Checking Data Usage
 
+Unless otherwise stated all NorthSIM eSIMs will throttle to 128kbps after your data limit has been reached. You are welcome to use thrid party data usage tracking apps to track your data usage. Alternatively your device will have an inbuilt data usage counter.
+
 <details markdown="block">
   <summary>
     For Apple iPhone and iOS Devices
@@ -196,10 +196,54 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 - Check your data usage
 </details>
 
-## Checking APN Settings
+## Troubleshooting
 
-Optional
-{: .label .label-red }
+### Toggling and Reseting the Network Operator
+If you're eSIM has suddenly stopped working it might be due to your phone's network operator settings. Our eSIMs roam across multiple networks to provide the best coverage, and sometimes roaming between networks can cause issues on yout device. To toggle/reset the network operator please follow the below instructions for your device:
+
+<details markdown="block">
+  <summary>
+    For Apple iPhone and iOS Devices
+  </summary>
+
+{: .highlight }
+
+- On North American iPhone Mobile is also known as Cellular
+- Go to Settings
+- Tap on Mobile or Mobile Data
+- Tap on Network Selection
+- Toggle on and then off Automatic
+
+</details>
+
+<details markdown="block">
+  <summary>
+    For Samsung Galaxy/Android Devices
+  </summary>
+
+{: .highlight }
+- Go To Settings
+- Tap on Connections
+- Tap on Mobile Networks
+- Tap on Network Operators
+- Toggle off and then on Select Automatically
+</details>
+
+<details markdown="block">
+  <summary>
+    For Google Pixel/Android Devices
+  </summary>
+
+{: .highlight }
+- Go to Settings
+- Tap on Network & Internet
+- Tap on your eSIM
+- Tap on Advanced
+- Toggle off and then on Automatically Select Network
+
+</details>
+
+### Checking APN Settings
 
 NorthSIM eSIMs automatically download APN configurations at the time of eSIM installtion. However sometimes the APN download process can be interupted and as a result the APN may not be configured correctly. To ensure your APN settings are correct please check that the APN Name matches the APN in the eSIM details section above.
 
@@ -228,9 +272,7 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
 - Tap on Access Point Names
 - Ensure that the APN Name is set as per eSIM details section above
 
-
 </details>
-
 
 <details markdown="block">
   <summary>
@@ -247,16 +289,58 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
 
 </details>
 
+### Common eSIM issues
 
-## Common eSIM issues
+<details markdown="block">
+  <summary>
+    eSIM Activation Issues
+  </summary>
 
-### My eSIM suddenly stopped working
+Most eSIM activation issues can be easily resolved by following the below steps:
 
-Please check ....
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart TD;
+    A([I've purchased my eSIM]) -.Received QR Code.->  B([Scan QR code]);
+    A-.Haven't Received QR code.->B1([Check your Junk/Spam mailbox]);
+    B1-.Found my QR code.->B2[Scan QR Code];
+    B1-.Still can't find my QR code.->G1([Please scan your QR code again]);
+    B-.Successful.->C([Please enable Data Roaming on your eSIM]);
+    B-.Unsuccessful.->D([Was there an error message?]);
+    D-.Yes.->E([Does the message say the eSIM has already been scanned?]);
+    E-.Yes.->F([Check your settings to see if eSIM is already added]);
+    E-.No.->G([Please contact support via WhatsApp/Facebook]);
+    D-.No.->H([Please scan your QR code again]);
+```
+</details>
 
-### I scanned my QR code but nothing happened
+<details markdown="block">
+  <summary>
+    My eSIM doesn't work (or stopped working)
+  </summary>
 
-### I scanned my QR code and it says it has already been activated
+Most eSIM issues can be resolved easily by following the below steps:
 
-### My eSIM is showing 4G/LTE/3G signal but is really slow
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart TD
+    A([My eSIM isn't working])-..->B([Have you successfully scanned the QR Code?]);
+    B-.Yes.-> C([Is this the first time you are using the eSIM?]);
+    B-.No.->D([Please scan your QR code]);
+    C-.Yes.->E([Is data roaming enabled?]);
+    C-.No.->F([It was working previously]);
+    F-.The eSIM is very slow.->G([Please check your data usage limits]);
+    F-.It's not working at all.->H([Please change or toggle network operator]);
+    E-..->E1([Is the eSIM selected for Mobile Data?]);
+    E1-.->E2([If you've just landed it may take a few minutes to activate]);
+    E2-.It's still not working.-E3([Please contact support via WhatsApp/Facebook]);
+```
+</details>
+
+
+
+
+
+
+
 
