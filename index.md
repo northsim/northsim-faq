@@ -14,7 +14,7 @@ To quickly get you started please select which eSIM you've purchased from the li
 |-------------------------------------------------------------------------------------------------|
 | [Australia and New Zealand](https://faq.northsim.com/docs/Australia%20and%20New%20Zealand.html) |
 | [China (Mainland, Hong Kong and Macau)](https://faq.northsim.com/docs/China.html)               |
-| [Japan](https://faq.northsim.com/docs/japan.html)                                               |
+| [Japan](https://faq.northsim.com/docs/Japan.html)                                               |
 | [South East Asia](https://faq.northsim.com/docs/South%20East%20Asia.html)                       |
 | [South Korea](https://faq.northsim.com/docs/South%20Korea.html)                                 |
 | [Taiwan](https://faq.northsim.com/docs/Taiwan.html)                                             |
