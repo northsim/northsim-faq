@@ -12,12 +12,9 @@ nav_order: 4
 ### eSIM Details
 {: .no_toc }
 
-
-
 | Coverage       | Network                     | APN      |
 |----------------|-----------------------------|----------|
 | Japan          | KDDI, NTT Docomo            | internet |
-
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
@@ -29,12 +26,10 @@ Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a stra
 
 ## eSIM Activation Checklist
 
-- [x] An email from NorthSIM with your eSIM Details
-- [x] A carrier unlocked and compatible device
-- [x] A reliable WiFi Connection
-- [x] A device which is charged more than 50%
-- [x] Scan your QR code
-- [x] Enable Data Roaming
+1. Connect to WiFi
+2. Scan your QR code
+3. Enable Data Roaming
+4. Select your eSIM for Mobile Data
 
 ## Activating your eSIM
 
@@ -201,10 +196,54 @@ Unless otherwise stated all NorthSIM eSIMs will throttle to 128kbps after your d
 - Check your data usage
 </details>
 
-## Checking APN Settings
+## Troubleshooting
 
-Optional
-{: .label .label-red }
+### Toggling and Reseting the Network Operator
+If you're eSIM has suddenly stopped working it might be due to your phone's network operator settings. Our eSIMs roam across multiple networks to provide the best coverage, and sometimes roaming between networks can cause issues on yout device. To toggle/reset the network operator please follow the below instructions for your device:
+
+<details markdown="block">
+  <summary>
+    For Apple iPhone and iOS Devices
+  </summary>
+
+{: .highlight }
+
+- On North American iPhone Mobile is also known as Cellular
+- Go to Settings
+- Tap on Mobile or Mobile Data
+- Tap on Network Selection
+- Toggle on and then off Automatic
+
+</details>
+
+<details markdown="block">
+  <summary>
+    For Samsung Galaxy/Android Devices
+  </summary>
+
+{: .highlight }
+- Go To Settings
+- Tap on Connections
+- Tap on Mobile Networks
+- Tap on Network Operators
+- Toggle off and then on Select Automatically
+</details>
+
+<details markdown="block">
+  <summary>
+    For Google Pixel/Android Devices
+  </summary>
+
+{: .highlight }
+- Go to Settings
+- Tap on Network & Internet
+- Tap on your eSIM
+- Tap on Advanced
+- Toggle off and then on Automatically Select Network
+
+</details>
+
+### Checking APN Settings (
 
 NorthSIM eSIMs automatically download APN configurations at the time of eSIM installtion. However sometimes the APN download process can be interupted and as a result the APN may not be configured correctly. To ensure your APN settings are correct please check that the APN Name matches the APN in the eSIM details section above.
 
@@ -233,9 +272,7 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
 - Tap on Access Point Names
 - Ensure that the APN Name is set as per eSIM details section above
 
-
 </details>
-
 
 <details markdown="block">
   <summary>
@@ -252,14 +289,14 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
 
 </details>
 
-## Common eSIM issues
+### Common eSIM issues
 
 <details markdown="block">
   <summary>
     eSIM Activation Issues
   </summary>
 
-Most eSIM activation issues can be easily resolved by following the steps below.
+Most eSIM activation issues can be easily resolved by following the below steps:
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
@@ -282,7 +319,7 @@ flowchart TD;
     My eSIM doesn't work (or stopped working)
   </summary>
 
-Most eSIM activation issues can be easily resolved by following the steps below.
+Most eSIM issues can be resolved easily by following the below steps:
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
