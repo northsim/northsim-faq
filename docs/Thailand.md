@@ -1,28 +1,29 @@
 ---
 layout: default
-title: Vietnam eSIM
-nav_order: 9
+title: Thailand eSIM
+nav_order: 8
 ---
 
 # Taiwan eSIM
 {: .no_toc }
-[Purchase Now](https://www.northsim.com/product/vietnam-travel-esim/){: .btn .btn-yellow-300}
-
+[Purchase Now](https://www.northsim.com/product/thailand-travel-esim/){: .btn .btn-yellow-300}
 
 ### eSIM Details
 {: .no_toc }
 
-| Coverage | Network                         | APN      |
-|----------|---------------------------------|----------|
-| Vietnam  | Vinaphone                       | wintel   |
+| Coverage | Network | APN        |
+|----------|---------|------------|
+| Thailand | DTAC    | dtac.co.th |
 
 ### Inclusions
 
-- 500GB Mobile Data for use in Vietnam
-- 50 minutes calls to local Vietnam numbers
+- 15GB (16 days) or 50GB (10 days)
+- 15 THB Call Credit
 - Receive unlimited calls and SMS
-- Local Vietnam (+84) Mobile Number
-  - To obtain phone number dial *101#
+- Local Thailand (+66) Mobile Number
+  - To check call balance dial *101*9#
+  - To check data usage dial *101*1*9#
+  - To check mobile number dial *102*9#
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
