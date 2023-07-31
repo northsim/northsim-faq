@@ -160,7 +160,7 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
 
 ## Checking Data Usage
 
-Unless otherwise stated all NorthSIM eSIMs will throttle to 128kbps after your data limit has been reached. You are welcome to use thrid party data usage tracking apps to track your data usage. Alternatively your device will have an inbuilt data usage counter.
+Unless otherwise stated all NorthSIM eSIMs will throttle to 128kbps after your data limit has been reached. You are welcome to use third party data usage tracking apps to track your data usage. Alternatively your device will have an inbuilt data usage counter.
 
 <details markdown="block">
   <summary>
