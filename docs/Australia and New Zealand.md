@@ -105,11 +105,15 @@ Scan your QR Code (or enter your QR details manually if you have been given them
   </summary>
 
 {: .highlight }
-- Go to Settings > Network & Internet
-- Look for the SIMs menu and click the + button
-- Tap on Download a SIM instead
-- Tap Next and follow the instructions
-- Scan your QR code
+> Go to Settings > Network & Internet
+> 
+> Look for the SIMs menu and click the + button
+> 
+> Tap on Download a SIM instead
+> 
+> Tap Next and follow the instructions
+> 
+> Scan your QR code
 
 </details>
 
@@ -123,10 +127,13 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
   </summary>
 
 {: .highlight }
-- Go to Settings
-- Tap on Mobile
-- Tap on the eSIM
-- Scroll down and toggle on Data Roaming
+> Go to Settings
+> 
+> Tap on Mobile
+> 
+> Tap on the eSIM
+> 
+> Scroll down and toggle on Data Roaming
 </details>
 
 <details markdown="block">
@@ -135,10 +142,13 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
   </summary>
 
 {: .highlight }
-- Go To Settings
-- Tap on Connections
-- Tap on Mobile Networks
-- Toggle on Data Roaming
+> Go To Settings
+> 
+> Tap on Connections
+> 
+> Tap on Mobile Networks
+> 
+> Toggle on Data Roaming
 
 </details>
 
@@ -149,11 +159,15 @@ Now that you've successfully acitvated your eSIM, it's time to turn on Data Roam
   </summary>
 
 {: .highlight }
-- Go to Settings
-- Tap on Network & Internet
-- Tap on Internet
-- Tap on the eSIM's setting icon (it looks like a gear)
-- Toggle Roaming on
+> Go to Settings
+> 
+> Tap on Network & Internet
+> 
+> Tap on Internet
+> 
+> Tap on the eSIM's setting icon (it looks like a gear)
+> 
+> Toggle Roaming on
 
 </details>
 
@@ -167,9 +181,11 @@ Unless otherwise stated all NorthSIM eSIMs will throttle to 128kbps after your d
   </summary>
 
   {: .highlight }
-- Go to Settings
-- Tap on Mobile
-- Scroll down and check the Data Roaming Usage value
+> Go to Settings
+> 
+> Tap on Mobile
+> 
+> Scroll down and check the Data Roaming Usage value
 </details>
 
 <details markdown="block">
@@ -178,10 +194,13 @@ Unless otherwise stated all NorthSIM eSIMs will throttle to 128kbps after your d
   </summary>
 
 {: .highlight }
-- Go To Settings
-- Tap on Connections
-- Tap on Data Usage
-- Check the data usage for your eSIM
+> Go To Settings
+> 
+> Tap on Connections
+> 
+> Tap on Data Usage
+> 
+> Check the data usage for your eSIM
 </details>
 
 <details markdown="block">
@@ -190,11 +209,15 @@ Unless otherwise stated all NorthSIM eSIMs will throttle to 128kbps after your d
   </summary>
 
   {: .highlight }
-- Go to Settings
-- Tap on Network & Internet
-- Tap on Internet
-- Tap on the eSIM you have installed
-- Check your data usage
+> Go to Settings
+> 
+> Tap on Network & Internet
+> 
+> Tap on Internet
+> 
+> Tap on the eSIM you have installed
+> 
+> Check your data usage
 </details>
 
 ## Troubleshooting
@@ -209,11 +232,15 @@ If you're eSIM has suddenly stopped working it might be due to your phone's netw
 
 {: .highlight }
 
-- On North American iPhone Mobile is also known as Cellular
-- Go to Settings
-- Tap on Mobile or Mobile Data
-- Tap on Network Selection
-- Toggle on and then off Automatic
+> On North American iPhone Mobile is also known as Cellular
+> 
+> Go to Settings
+> 
+> Tap on Mobile or Mobile Data
+> 
+> Tap on Network Selection
+> 
+> Toggle on and then off Automatic
 
 </details>
 
@@ -223,11 +250,15 @@ If you're eSIM has suddenly stopped working it might be due to your phone's netw
   </summary>
 
 {: .highlight }
-- Go To Settings
-- Tap on Connections
-- Tap on Mobile Networks
-- Tap on Network Operators
-- Toggle off and then on Select Automatically
+> Go To Settings
+> 
+> Tap on Connections
+> 
+> Tap on Mobile Networks
+> 
+> Tap on Network Operators
+> 
+> Toggle off and then on Select Automatically
 </details>
 
 <details markdown="block">
@@ -236,11 +267,15 @@ If you're eSIM has suddenly stopped working it might be due to your phone's netw
   </summary>
 
 {: .highlight }
-- Go to Settings
-- Tap on Network & Internet
-- Tap on your eSIM
-- Tap on Advanced
-- Toggle off and then on Automatically Select Network
+> Go to Settings
+> 
+> Tap on Network & Internet
+> 
+> Tap on your eSIM
+> 
+> Tap on Advanced
+> 
+> Toggle off and then on Automatically Select Network
 
 </details>
 
@@ -255,9 +290,11 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
 
 {: .highlight }
 
-- Settings > Mobile > Mobile Data Network
-- Settings > Mobile Data > Mobile Data Options > Mobile Data Network
-- Ensure that the APN Name is set as per eSIM details section above
+> Settings > Mobile > Mobile Data Network
+> 
+> Settings > Mobile Data > Mobile Data Options > Mobile Data Network
+> 
+> Ensure that the APN Name is set as per eSIM details section above
 
 </details>
 
@@ -267,11 +304,15 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
   </summary>
 
 {: .highlight }
-- Go To Settings
-- Tap on Connections
-- Tap on Mobile Networks
-- Tap on Access Point Names
-- Ensure that the APN Name is set as per eSIM details section above
+> Go To Settings
+> 
+> Tap on Connections
+> 
+> Tap on Mobile Networks
+> 
+> Tap on Access Point Names
+> 
+> Ensure that the APN Name is set as per eSIM details section above
 
 </details>
 
@@ -281,12 +322,17 @@ NorthSIM eSIMs automatically download APN configurations at the time of eSIM ins
   </summary>
 
 {: .highlight }
-- Go to Settings
-- Tap on Network & Internet
-- Tap on your eSIM
-- Tap on Advanced
-- Tap on Access Point Names
-- Ensure that the APN Name is set as per eSIM details section above
+> Go to Settings
+> 
+> Tap on Network & Internet
+> 
+> Tap on your eSIM
+> 
+> Tap on Advanced
+> 
+> Tap on Access Point Names
+> 
+> Ensure that the APN Name is set as per eSIM details section above
 
 </details>
 
