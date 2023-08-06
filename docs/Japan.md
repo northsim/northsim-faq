@@ -105,9 +105,13 @@ Scan your QR Code (or enter your QR details manually if you have been given them
 
 {: .highlight }
 > Go to Settings > Network & Internet
+> 
 > Look for the SIMs menu and click the + button
+> 
 > Tap on Download a SIM instead
+> 
 > Tap Next and follow the instructions
+> 
 > Scan your QR code
 
 </details>
