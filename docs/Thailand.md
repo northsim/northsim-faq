@@ -4,7 +4,7 @@ title: Thailand eSIM
 nav_order: 8
 ---
 
-# Taiwan eSIM
+# Thailand eSIM
 {: .no_toc }
 [Purchase Now](https://www.northsim.com/product/thailand-travel-esim/){: .btn .btn-yellow-300}
 
