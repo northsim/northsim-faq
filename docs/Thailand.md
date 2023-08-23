@@ -15,6 +15,8 @@ nav_order: 8
 |----------|---------|------------|
 | Thailand | DTAC    | dtac.co.th |
 
+- PLEASE SCAN THE QR CODE ONCE YOU ARRIVE IN THAILAND
+
 ### Inclusions
 
 - 15GB (16 days) or 50GB (10 days)
