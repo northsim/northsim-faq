@@ -11,6 +11,8 @@ nav_order: 8
 ### eSIM Details
 {: .no_toc }
 
+- Please do not scan the QR code before you arrive in Thailand as your 16 days will start counting down
+
 | Coverage | Network | APN        |
 |----------|---------|------------|
 | Thailand | DTAC    | dtac.co.th |
