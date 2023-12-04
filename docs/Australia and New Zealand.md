@@ -14,8 +14,8 @@ nav_order: 2
 
 | Coverage    | Network | APN         |
 |-------------|----------|------------|
-| Australia   | Vodafone | mobiledata |
-| New Zealand | One NZ   | mobiledata |
+| Australia   | Optus AU | mobile |
+| New Zealand | Spark NZ   | mobile |
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
