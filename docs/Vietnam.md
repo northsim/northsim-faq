@@ -14,7 +14,7 @@ nav_order: 9
 
 | Coverage | Network                         | APN      |
 |----------|---------------------------------|----------|
-| Vietnam  | Vinaphone                       | wintel   |
+| Vietnam  | Vietnam Mobile                       | internet   |
 
 ### Inclusions
 
