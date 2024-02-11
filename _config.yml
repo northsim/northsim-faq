@@ -2,8 +2,7 @@ title: NorthSIM
 description: NorthSIM Help and FAQ
 theme: just-the-docs
 color_scheme: light
-
-
+logo: "/assets/images/logo/nslogo100x100.png"
 url: https://faq.northsim.com
 
 aux_links:
@@ -22,3 +21,7 @@ callouts:
   warning:
     title: Notice
     color: red
+
+  new:
+    title: New
+    color: green
