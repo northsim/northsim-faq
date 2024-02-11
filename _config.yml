@@ -20,5 +20,5 @@ mermaid:
 # Color schemes:
 callouts:
   warning:
-    title: Instructions
+    title: Notice
     color: red

@@ -1,26 +1,54 @@
 ---
 layout: default
-title: Vietnam eSIM
-nav_order: 9
+title: Europe eSIM
+nav_order: 3
 ---
 
-# Vietnam eSIM
+# Europe eSIM
 {: .no_toc }
-[Purchase Now](https://www.northsim.com/product/vietnam-travel-esim/){: .btn .btn-yellow-300}
 
+[Purchase Now](https://www.northsim.com/product/japan-travel-esim/){: .btn .btn-yellow-300}
 
 ### eSIM Details
 {: .no_toc }
 
-| Coverage | Network                         | APN      |
-|----------|---------------------------------|----------|
-| Vietnam  | Vietnam Mobile                       | internet   |
-
-### Inclusions
-
-- Receive unlimited calls and SMS
-- Local Vietnam (+84) Mobile Number
-  - To obtain phone number dial *101#
+| Coverage       | Network                     | APN      |
+|----------------|-----------------------------|----------|
+| Austria (AT)   | A1 Telekom/Three            | bicsapn  |
+| Belgium (BE)   | Proximus                    | bicsapn  |
+| Bulgaria (BG)  | Mobiltel / Yettel           | bicsapn  |
+| Croatia (HR)   | Tele2 / Vipnet              | bicsapn  |
+| Cyprus (CY)    | Cyta-Vodafone / MTN         | bicsapn  |
+| Czech Republic (CZ) | O2 / Vodafone           | bicsapn  |
+| Denmark (DK)   | TDC / Telenor               | bicsapn  |
+| Estonia (EE)   | EMT / Tele2                 | bicsapn  |
+| Finland (FI)   | Alands Telekom / DNA / Elisa / Telia Company | bicsapn  |
+| France (FR)    | Bouygues/Digicel/Free Mobile/Orange/SFR | bicsapn  |
+| French Guiana (GF) | Outremer Telecom/Digicel Mobile Antilles/Dauphin Telecom | bicsapn |
+| Germany (DE)   | Telefonica / Vodafone       | bicsapn  |
+| Gibraltar (GI) | Gibtelecom Ltd.             | bicsapn  |
+| Greece (GR)    | Nova / Vodafone             | bicsapn  |
+| Hungary (HU)   | Telenor / Vodafone          | bicsapn  |
+| Iceland (IS)   | Siminn hf. / Syn hf         | bicsapn  |
+| Ireland (IE)   | Meteor / O2 / Three         | bicsapn  |
+| Italy (IT)     | ILIAD / Vodafone / Wind / Wind Tre | bicsapn  |
+| Latvia (LV)    | Bite / LMT / Tele2          | bicsapn  |
+| Liechtenstein (LI) | FL1 / Orange             | bicsapn  |
+| Lithuania (LT) | Bite / Tele2 / Telia Lietuva | bicsapn |
+| Luxembourg (LU) | POST Luxembourg / Tango   | bicsapn  |
+| Malta (MT)     | GO / Vodafone               | bicsapn  |
+| Netherlands (NL) | KPN(iBasis) / Vodafone    | bicsapn  |
+| Norway (NO)    | NetCom / Telenor            | bicsapn  |
+| Poland (PL)    | Orange / P4 PLAY / Plus     | bicsapn  |
+| Portugal (PT)  | MEO / NOS Comunicacoes sa   | bicsapn  |
+| Reunion (RE)   | Orange Reunion/Societe Reunionnaise | bicsapn  |
+| Romania (RO)   | Orange / Vodafone           | bicsapn  |
+| Slovakia (SK)  | O2 / Orange                 | bicsapn  |
+| Slovenia (SI)  | Mobitel / Telemach          | bicsapn  |
+| Spain (ES)     | Orange / Telefonica Spain / Vodafone / Xfera | bicsapn |
+| Sweden (SE)    | Tele2 / Telenor / Telia     | bicsapn  |
+| Switzerland (CH) | Salt Mobile SA / Sunrise  | bicsapn  |
+| UK (GB)        | O2 / Three / Vodafone       | bicsapn  |
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
@@ -388,14 +416,6 @@ flowchart TD
     E2-.It's still not working.-E3([Please contact support via WhatsApp/Facebook]);
 ```
 </details>
-
-
-
-
-
-
-
-
 
 
 
