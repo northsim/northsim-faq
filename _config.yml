@@ -18,6 +18,3 @@ mermaid:
   version: "9.1.3"
 
 # Color schemes:
-callouts:
-  highlight:
-    title: Instructions
