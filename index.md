@@ -19,7 +19,7 @@ To quickly get you started please select which eSIM you've purchased from the li
 | [South Korea](https://faq.northsim.com/docs/South%20Korea.html)                                 |
 | [Taiwan](https://faq.northsim.com/docs/Taiwan.html)                                             |
 | [Thailand](https://faq.northsim.com/docs/Thailand.html)                                         |
-| [Vietnam](https://faq.northsim.com/docs/Vietnam.html)   
+| [Vietnam](https://faq.northsim.com/docs/Vietnam.html)                                           |
 
 ----
 
