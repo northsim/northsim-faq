@@ -7,7 +7,7 @@ nav_order: 3
 # Europe eSIM
 {: .no_toc }
 
-[Purchase Now](https://www.northsim.com/product/japan-travel-esim/){: .btn .btn-yellow-300}
+[Purchase Now](https://www.northsim.com/product/japan-travel-esim/){: .btn}
 
 ### eSIM Details
 {: .no_toc }
