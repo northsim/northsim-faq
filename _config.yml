@@ -19,5 +19,4 @@ mermaid:
 # Color schemes:
 callouts:
   highlight:
-    title: Instructions
-    color: nsblack
+    title: Notice
