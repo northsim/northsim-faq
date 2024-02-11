@@ -1,6 +1,6 @@
 ---
 layout: default
-title: China eSIM
+title: China (Mainland, Hong Kong and Macau) eSIM
 nav_order: 3
 ---
 
