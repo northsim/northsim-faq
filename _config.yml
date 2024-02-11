@@ -1,6 +1,6 @@
 title: NorthSIM
 description: NorthSIM Help and FAQ
-theme: just-the-docs
+remote_theme: leakyabstractions/pretty-docs
 color_scheme: northsim
 
 url: https://faq.northsim.com
