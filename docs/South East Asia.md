@@ -17,7 +17,6 @@ nav_order: 5
 | Hong Kong | SmarTone, HKT, 3HK   | internet |
 | Macau     | CTM                  | internet |
 | Vietnam   | Vinaphone            | internet |
-| Cambodia  | Smart, Metfone       | internet |
 | Thailand  | DTAC                 | internet |
 | Singapore | Singtel, M1, StarHub | internet |
 | Malaysia  | Celcom, DiGi         | internet |
