@@ -14,13 +14,10 @@ nav_order: 5
 
 | Coverage  | Network              | APN      |
 |-----------|----------------------|----------|
-| Hong Kong | SmarTone, HKT, 3HK   | internet |
-| Macau     | CTM                  | internet |
-| Vietnam   | Vinaphone            | internet |
-| Thailand  | DTAC                 | internet |
-| Singapore | Singtel, M1, StarHub | internet |
-| Malaysia  | Celcom, DiGi         | internet |
-| Indonesia | XL, Indosat          | internet |
+| Thailand  | AIS                  | internet |
+| Singapore | Singtel              | internet |
+| Malaysia  | Maxis                | internet |
+| Indonesia | Telkomsel            | internet |
 
 Thank you for purchasing your eSIM from NorthSIM. Activating your eSIM is a straightforward process. All you need to do is connect to WiFi and follow the steps for your device.
 
